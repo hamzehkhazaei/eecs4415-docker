@@ -1,1 +1,1 @@
-# eecs4415-python
+# jupyterlab-docker
